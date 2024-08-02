@@ -3,12 +3,11 @@
 Este es un sitio web para jugar al dígalo con mímica. Jugar es muy sencillo! Presiona `Jugar` para iniciar. Los puntajes se asignan manualmente.
 El panel de `configuración` permite ver y administrar las películas disponibles, como así también el tiempo de cada turno.
 
-Ingresa a:
-```
-https://pedro-parodi-ramirez.github.io/digalo-con-mimica
-```
-Update
+Ingresa a
 ---
+[pedro-parodi-ramirez.github.io/digalo-con-mimica](https://pedro-parodi-ramirez.github.io/digalo-con-mimica)
+
+### Update
 La app originalmente captaba un repertorio de películas de una API pública, lamentablemente la versión gratuita ha sido dada de baja. Por lo que solo se cuenta con 5 películas a modo de prueba, con la posibilidad de agregar más si se quisiera.
 
 ## Aprender a jugar
