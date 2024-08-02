@@ -98,7 +98,11 @@ const fetchData = async () => {
 }
 
 // Se captan datos de API IMDb
-fetchData();
+//fetchData();
+// Se habilitan funcionalidades
+document.getElementById('configMovies').classList.remove('disabled');
+document.getElementById('initPlay').classList.remove('disabled');
+document.getElementById('spinner').remove();
 
 // ! El servidor IMDb permite 100 consultas al día de forma gratuita
 // ! Para limitar las consultas al servidor, se puede ejecutar un fetch y luego trabajar con localStorage.
